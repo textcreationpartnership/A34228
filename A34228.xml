@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Confession and execution of the eight prisoners suffering at Tyburn on Wednesday the 30th of August, 1676 viz. [bracket] Tho. Moore, Charles Godfry ... giving a full and satisfactory account of their crimes ... : published for a warning to all that read it ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34228</idno>
+            <idno type="STC">Wing C5746</idno>
+            <idno type="STC">ESTC R39384</idno>
+            <idno type="EEBO-CITATION">18391814</idno>
+            <idno type="OCLC">ocm 18391814</idno>
+            <idno type="VID">107458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107458)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1630:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Confession and execution of the eight prisoners suffering at Tyburn on Wednesday the 30th of August, 1676 viz. [bracket] Tho. Moore, Charles Godfry ... giving a full and satisfactory account of their crimes ... : published for a warning to all that read it ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance, Roger L'Estrange. 1676."</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107458:1"/>
+            <pb facs="tcp:107458:1" rendition="simple:additions"/>
+            <p>THE CONFESSION AND EXECUTION Of the Eight Priſoners ſuffering at TYBURN On <hi>Wedneſday</hi> the 30th of <hi>Auguſt,</hi> 1676.</p>
+            <list>
+               <head>VIZ.</head>
+               <item>
+                  <hi>Tho. Moore,</hi>
+               </item>
+               <item>
+                  <hi>Charles Godfry,</hi>
+               </item>
+               <item>
+                  <hi>Roger Withers,</hi>
+               </item>
+               <item>
+                  <hi>Richard Cooke,</hi>
+               </item>
+               <item>
+                  <hi>Matth. Walkenden,</hi>
+               </item>
+               <item>
+                  <hi>Martha Harman,</hi>
+               </item>
+               <item>
+                  <hi>John Evans,</hi> and</item>
+               <item>
+                  <hi>James Parker.</hi>
+               </item>
+            </list>
+            <p>Giving a full and ſatisfactory Account of their Crimes, Behaviours, Diſcourſes in Priſon, and laſt Words (as neer as could be taken) at the place of Execution.</p>
+            <p>Publiſhed for a Warning to all that read it, to avoid the like wicked Courſes, which brought theſe poor people to this ſhameful End.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>With Allowance,</p>
+                  <closer>
+                     <signed>Roger L'Eſtrange.</signed>
+                     <dateline>
+                        <date>1676.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London:</hi> Printed for <hi>D. M.</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="execution_account">
+            <pb facs="tcp:107458:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:107458:2" rendition="simple:additions"/>
+            <head>The Confeſsion, laſt Speeches, and Execution of the Priſoners at <hi>Tyburn,</hi> on the 30th of <hi>Aug.</hi> 1676.</head>
+            <p>AT the S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſions held for <hi>London</hi> and <hi>Mid<g ref="char:EOLhyphen"/>dleſex, Auguſt</hi> the 23, <hi>&amp;c.</hi> 1676, there were in all Sixteen perſons Condemned to be hang'd for ſeveral great and noto<g ref="char:EOLhyphen"/>rious Crimes: And though, for the moſt part, they were perſons that all-along, both at their Apprehenſion, Impriſonment, and Tryals, car<g ref="char:EOLhyphen"/>ried and behaved themſelves with too much Confidence, yet when Sentence of death came to be pronounced upon them (which was done in a moſt pathetick Oration and a Gravity ſuit<g ref="char:EOLhyphen"/>ing the ſolemneſs of the occaſion, by that worthy perſon whoſe Charge it was) it could not but much affect the hearts of all preſent to hear the ſad Cries and doleful Lamentations which theſe miſerable Wretches made, begging and impor<g ref="char:EOLhyphen"/>tuning the Court for mercy, when their own repeated offences had excluded it, and left room for nothing but Judgment.</p>
+            <pb n="4" facs="tcp:107458:3"/>
+            <p>Yet ſo great has been the Clemency of his gra<g ref="char:EOLhyphen"/>cious Majeſty (the Fountain of all Terreſtrial Mercy as well as of Juſtice) that Eight of theſe deſperate Malefactors were Reprieved from death, the other Eight that ſuffered their Names and Offences were as followes:</p>
+            <p>
+               <hi>Thomas Moore</hi> and <hi>James Parker,</hi> convicted for ſtealing the Goods of a perſon of Quality at <hi>Cue</hi> in <hi>Surrey;</hi> and though they were here only indicted for Felony, becauſe they were taken with the Goods, by one that knew them to be Thieves, in <hi>Alderſgate-ſtreet,</hi> the ſame day the Fact was done, yet it appeared to the Court to be a Burglary too in the ſaid County of <hi>Surrey.</hi> Theſe Two upon their firſt apprehenſion, were put into Bridewel, and ſent aboard a Ship by their conſent, whence they run away; and being retaken on a new ſcore, were now found guilty: the latter of them was tranſported for the like Tricks about five years ago, and by trifling now with the Court before he would plead, forced them to commit him to the Preſs, where, before he would recant his obſtinacy, he was very much bruiſed, ſo that without further Execution, 'twas much doubted whether he would have ſurvi<g ref="char:EOLhyphen"/>ved.</p>
+            <p>
+               <hi>Charles Godfry</hi> and <hi>Roger Withers,</hi> were con<g ref="char:EOLhyphen"/>victed for ſtealing Goods, to the value of Ten pounds; which likewiſe appeared to the Court to be a Burglary in <hi>Hartfordſhire.</hi>
+            </p>
+            <pb n="5" facs="tcp:107458:3"/>
+            <p>
+               <hi>Richard Cooke</hi> and <hi>Matthew Walkenden,</hi> were condemned for Burglary: They were both old Offenders; had ſeveral times had the mercy of the Court, but it ſeems would by no warning be reclaimed from their vitious Courſes.</p>
+            <p>The next we may juſtly call a matchleſs piece of Female Impudence: A young wo<g ref="char:EOLhyphen"/>man, named <hi>Martha Harman,</hi> was condem<g ref="char:EOLhyphen"/>ned for breaking open a houſe at <hi>Iſlington,</hi> a Crime rarely if ever attempted by that Sex. She had four times before been tryed before the Court for ſeveral Offences; but now could not obtain further indulgence, <hi>Laeſa toties miſe<g ref="char:EOLhyphen"/>ricordia fit furor.</hi>
+            </p>
+            <p>The laſt we are to mention, was the youngeſt in years, not above Fifteen; by name <hi>John E<g ref="char:EOLhyphen"/>vans:</hi> He was convicted for breaking open a houſe, and ſeveral other Indictments againſt him; to which he pleaded guilty within the be<g ref="char:EOLhyphen"/>nefit of the Clergy, but that Plea in his Caſe was vain; for he had received that Legal fa<g ref="char:EOLhyphen"/>vour in his hand ſeveral Seſſions ago.</p>
+            <p>All theſe were viſited in Goal by ſeveral able and godly Miniſters, whoſe Charity to their pe<g ref="char:EOLhyphen"/>riſhing Souls led them to come to them in the Dungeon; beſides the dayly pains of the Ordi<g ref="char:EOLhyphen"/>nary, who very diligently performed his Chriſtian duty on this occaſion.</p>
+            <p>The Ignorance they had been bred in, the ill Courſes they had all their lives time followed,
+<pb n="6" facs="tcp:107458:4"/> whereby the cuſtom of ſinning had taken away the ſenſe of it, rendred them very hard and dif<g ref="char:EOLhyphen"/>ficult to be wrought upon, or p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eked into any degree of Contrition, by the moſt earneſt or ſear<g ref="char:EOLhyphen"/>ching Diſcourſes or Perſwaſions that could be uſed to them for a long time, their minds being more taken up with flettering hopes and vain en<g ref="char:EOLhyphen"/>deavours to prolong their lives in this world, than to prepare and fit them for an eternal life in the next.</p>
+            <p>But that omnipotent wiſdome which of old was pleaſed to afford, by miracle, plentiful wa<g ref="char:EOLhyphen"/>ter out of a dry and barren Rock, did now gra<g ref="char:EOLhyphen"/>ciouſly vouchſafe at laſt to mollifie ſome of their obdurate hearts, into a deep, due, and melting ſenſe of their miſerable ſtate.</p>
+            <p>The Miniſters, as Embaſſaders ſent from the glorious Court of Heaven with Offers of Peace and Pardon to theſe deſperate and forlorn wret<g ref="char:EOLhyphen"/>ches, were not wanting to repreſent to them their miſerable Condition by nature, aggravated and increaſed by a numberleſs number of actual Tranſgreſſions; not onely againſt the light of their Conſciences, and dictates of humane Rea<g ref="char:EOLhyphen"/>ſon, and common Right, but alſo againſt ſeveral political Indulgences and Warnings from their own former dangers and others miſerable fates.</p>
+            <p>Some of them appeared to be very ſenſibly touched with theſe grave and ſeaſonable Admo<g ref="char:EOLhyphen"/>nitious, and to caſt back a repentant Eye on their
+<pb n="7" facs="tcp:107458:4" rendition="simple:additions"/> former miſcarriages, with endeavours to improve thoſe few remaining minutes of their lives, to obtain pardon for their paſt Offences: Oh! how welcome would a few of thoſe days, they had formerly ſpent in vanity, been now to theſe poor wretches, that they might have had ſuffi<g ref="char:EOLhyphen"/>cient time and opportunity to bewail their paſt miſcarriages, and get ſome aſſurance of future happineſs, being now to lanch out into the Ocean of Eternity.</p>
+            <p>Moſt of them were very full and open breaſted in their acknowledgments, that they had viola<g ref="char:EOLhyphen"/>ted both the Laws of God, of man, and Dictates of their own Conſciences, in unjuſtly invading the proprieties of other men. And (what is ve<g ref="char:EOLhyphen"/>ry remarkable) they confeſſed, that what they died for was the leaſt of their Tranſgreſſions a<g ref="char:EOLhyphen"/>gainſt the Laws of God; having otherwiſe by multiplied Offences juſtly provoked the Divine Vengeance againſt themſelves.</p>
+            <p>On the <hi>Tueſday</hi> there were at once four Mini<g ref="char:EOLhyphen"/>ſters attending them in Spiritual Inſtructions and Prayer, for ſeveral hours together, the effect of which was, That ſeveral of the dying men ſeemed intirely convinced of their deſperate Eſtate, and in that Agony to intreat, with the greateſt ear<g ref="char:EOLhyphen"/>neſtneſs in the world, the Prayers of all good people.</p>
+            <p>When they were brought to the place of Exe<g ref="char:EOLhyphen"/>cution (whither they were attended beſides the
+<pb n="8" facs="tcp:107458:5"/> people, with ſeveral Miniſters) few of them ſpoke any thing conſiderable, onely one or two declared the Original of their ruine to be diſobe<g ref="char:EOLhyphen"/>dience to their Maſters, and particularly negle<g ref="char:EOLhyphen"/>cting their duties on Sabbath-days at the places of publick Worſhip, the temptations of leud Women, and idleneſs in their lawful Callings; from which they were debauch'd by ill and ex<g ref="char:EOLhyphen"/>travagant Company: of, and from all, which they ſeriouſly and in the words of dying men, deſired all that heard them to beware and re<g ref="char:EOLhyphen"/>frain.</p>
+            <p>And ſo ſuffered according to their Sentence: And may their lamentable Examples warn all o<g ref="char:EOLhyphen"/>thers that ſaw the ſame, or ſhall here read it tru<g ref="char:EOLhyphen"/>ly related, deter them from thoſe wicked Facts and Courſes, which brought theſe unhappy Wret<g ref="char:EOLhyphen"/>ches to this ſad, deplorable, and ignominious End.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
